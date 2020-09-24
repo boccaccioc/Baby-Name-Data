@@ -1,0 +1,8 @@
+Mary,F,10
+Anna,F,9
+Helen,F,8
+Martha,F,7
+Willie,M,999999
+Will,M,7
+John,M,6
+Waldo,M,5

@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8903335a-c304-4a85-a99c-526907e29164" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/names/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/names/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gWQEfp8Ku6yBu1ZwZj5P6cAg1B" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="names" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cmb56\Downloads\CS_307\data_team15\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MainTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="names.Main" />
+      <module name="data_team15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="names.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data_team15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="names.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="names" />
+      <option name="MAIN_CLASS_NAME" value="names.MainTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.basic_test_Q1_TopFemaleName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data_team15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="names.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="names" />
+      <option name="MAIN_CLASS_NAME" value="names.MainTest" />
+      <option name="METHOD_NAME" value="basic_test_Q1_TopFemaleName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.complete_test_Q4_OneYearRange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data_team15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="names.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="names" />
+      <option name="MAIN_CLASS_NAME" value="names.MainTest" />
+      <option name="METHOD_NAME" value="complete_test_Q4_OneYearRange" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.complete_test_Q8_secondRankedFemale" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data_team15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="names.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="names" />
+      <option name="MAIN_CLASS_NAME" value="names.MainTest" />
+      <option name="METHOD_NAME" value="complete_test_Q8_secondRankedFemale" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MainTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.MainTest.basic_test_Q1_TopFemaleName" />
+        <item itemvalue="JUnit.MainTest.complete_test_Q8_secondRankedFemale" />
+        <item itemvalue="JUnit.MainTest.complete_test_Q4_OneYearRange" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8903335a-c304-4a85-a99c-526907e29164" name="Default Changelist" comment="" />
+      <created>1598227763111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598227763111</updated>
+      <workItem from="1598227764380" duration="19776000" />
+      <workItem from="1598471864466" duration="60000" />
+      <workItem from="1598474089279" duration="729000" />
+      <workItem from="1598579250187" duration="617000" />
+      <workItem from="1598644827234" duration="462000" />
+      <workItem from="1598811279160" duration="26736000" />
+      <workItem from="1599242809799" duration="48270000" />
+      <workItem from="1599536644541" duration="54000" />
+      <workItem from="1599757199314" duration="10444000" />
+      <workItem from="1599852466563" duration="45000" />
+      <workItem from="1599932438141" duration="637000" />
+      <workItem from="1600136980466" duration="3152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1599526588070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1599526588070" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1599533127553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1599533127553" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1599852494376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599852494376" />
+    <state width="1493" height="317" key="GridCell.Tab.0.bottom" timestamp="1599852395597">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="317" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599852395597" />
+    <state width="1493" height="317" key="GridCell.Tab.0.center" timestamp="1599852395596">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="317" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599852395596" />
+    <state width="1493" height="317" key="GridCell.Tab.0.left" timestamp="1599852395596">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="317" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599852395596" />
+    <state width="1493" height="317" key="GridCell.Tab.0.right" timestamp="1599852395597">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="317" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599852395597" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1599536061839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599536061839" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1599536061839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1599536061839" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1599536061839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1599536061839" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1599536061839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1599536061839" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1599249517722">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599249517722" />
+    <state x="372" y="22" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599350232654">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="372" y="22" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1599350232654" />
+    <state x="540" y="218" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1598840138200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="218" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1598840138200" />
+    <state x="773" y="194" key="extract.method.dialog" timestamp="1598813354723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="773" y="194" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1598813354723" />
+    <state x="209" y="32" key="new project wizard" timestamp="1599852510852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="32" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1599852510852" />
+    <state x="469" y="159" key="refactoring.ChangeSignatureDialog" timestamp="1599006157995">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="469" y="159" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1599006157995" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1599340589773">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1599340589773" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/data_team15$MainTest.ic" NAME="MainTest Coverage Results" MODIFIED="1599530315675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>names.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/data_team15$MainTest_complete_test_Q4_OneYearRange.ic" NAME="MainTest.complete_test_Q4_OneYearRange Coverage Results" MODIFIED="1599522186664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>names.*</FILTER>
+    </SUITE>
+  </component>
+</project>
